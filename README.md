@@ -24,9 +24,9 @@ The system recommends eco-friendly alternatives and helps users understand the e
 
 ---
 
-# CHAPTER 1: INTRODUCTION
+#  INTRODUCTION
 
-## 1.1 Background
+##  Background
 
 Online shopping has become an essential part of modern life. Consumers purchase thousands of products daily through e-commerce platforms. However, most consumers are unaware of the environmental impact associated with manufacturing, packaging, transportation, and disposal of these products.
 
@@ -36,7 +36,7 @@ Artificial Intelligence can assist consumers by analyzing product information an
 
 ---
 
-## 1.2 Problem Statement
+##  Problem Statement
 
 Current e-commerce systems primarily focus on:
 
@@ -56,7 +56,7 @@ As a result, consumers often make purchasing decisions without considering susta
 
 ---
 
-## 1.3 Proposed Solution
+##  Proposed Solution
 
 The proposed AI-Powered Sustainable Shopping Assistant:
 
@@ -68,7 +68,7 @@ The proposed AI-Powered Sustainable Shopping Assistant:
 
 ---
 
-## 1.4 Objectives
+## Objectives
 
 ### Primary Objectives
 
@@ -85,7 +85,7 @@ The proposed AI-Powered Sustainable Shopping Assistant:
 
 ---
 
-# CHAPTER 2: LITERATURE SURVEY
+#  LITERATURE SURVEY
 
 ## Existing Systems
 
@@ -112,7 +112,7 @@ Limitations:
 
 ---
 
-# CHAPTER 3: SYSTEM ANALYSIS
+#  SYSTEM ANALYSIS
 
 ## Functional Requirements
 
@@ -140,9 +140,9 @@ Limitations:
 
 ---
 
-# CHAPTER 4: DATASETS USED
+#  DATASETS USED
 
-## Dataset 1: Amazon Products Sales Data
+##  Amazon Products Sales Data
 
 Contains:
 
@@ -159,7 +159,7 @@ Used for product analysis and recommendation.
 
 ---
 
-## Dataset 2: H&M Dataset
+##  H&M Dataset
 
 Contains:
 
@@ -174,7 +174,7 @@ Used for sustainability evaluation.
 
 ---
 
-## Dataset 3: Personal Carbon Footprint Behavior Dataset
+##  Personal Carbon Footprint Behavior Dataset
 
 Contains:
 
@@ -189,7 +189,7 @@ Used to analyze consumer environmental impact.
 
 ---
 
-# CHAPTER 5: SYSTEM DESIGN
+#  SYSTEM DESIGN
 
 ## Architecture Diagram
 
@@ -234,7 +234,7 @@ Display results
 
 ---
 
-# CHAPTER 6: METHODOLOGY
+#  METHODOLOGY
 
 ## Data Preprocessing
 
@@ -285,7 +285,7 @@ Reasons for Selection:
 
 ---
 
-# CHAPTER 7: IMPLEMENTATION
+#  IMPLEMENTATION
 
 ## Software Requirements
 
@@ -328,7 +328,7 @@ Logic:
 
 ---
 
-# CHAPTER 8: RESULTS AND DISCUSSION
+#  RESULTS AND DISCUSSION
 
 ## Example Input
 
@@ -366,36 +366,11 @@ Recommended Products:
 
 ---
 
-# CHAPTER 9: FUTURE ENHANCEMENTS
-
-Future improvements include:
-
-* Barcode Scanner Integration
-* Product Image Recognition
-* Mobile Application
-* Real-Time Product APIs
-* Personalized Sustainability Dashboard
-* Deep Learning Models
-* Carbon Footprint Tracking
-
----
-
-# CHAPTER 10: CONCLUSION
+#  CONCLUSION
 
 The AI-Powered Sustainable Shopping Assistant successfully predicts sustainability scores and recommends environmentally friendly products using Machine Learning techniques. The project combines sustainability analysis, recommendation systems, and consumer behavior analytics to encourage responsible shopping practices.
 
 The system supports environmental conservation by helping users make informed and sustainable purchasing decisions.
-
----
-
-# REFERENCES
-
-1. Scikit-Learn Documentation
-2. Python Documentation
-3. Kaggle Datasets
-4. Machine Learning Research Papers
-5. Sustainability and Carbon Footprint Studies
-6. E-commerce Recommendation System Research Papers
 
 ---
 
