@@ -377,3 +377,6 @@ The system supports environmental conservation by helping users make informed an
 # PROJECT OUTCOME
 
 The developed system demonstrates how Artificial Intelligence can contribute to sustainable development by guiding consumers toward environmentally responsible purchasing decisions. The project provides practical experience in Machine Learning, Data Analytics, Sustainability Assessment, and Recommendation Systems.
+
+### Demo Link For My Shopping Assistant website
+<a href=https://Keerthana2705-max.github.io/Front-End-Development/shopping%20assistant.html>Shopping Assistant</a>
